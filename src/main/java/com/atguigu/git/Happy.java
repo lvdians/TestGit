@@ -6,5 +6,6 @@ public static void main(String[] args) {
 	System.out.println("left...");
 	System.out.print("你为什么修改");
 	System.out.println("sssssss");
+	System.out.println("hot  fix");
 }
 }
